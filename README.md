@@ -1,3 +1,15 @@
+# LuaHID
+
+This project allows you to remap a HID device through the use of the Lua programming language.  It is based on the excellent [HID Remmaper](https://github.com/jfedor2/hid-remapper) project.
+
+**NOTE:** The `main` branch is the original code for HID Remapper.  The 'luahid' branch is the main branch for this project.  All other branches are features or work in progress.
+
+--------------------------------------------------------------------------------------------------------------
+
+Original README.md
+
+--------------------------------------------------------------------------------------------------------------
+
 # HID Remapper
 
 _For user documentation please see the project's website at [remapper.org](https://www.remapper.org/)._
